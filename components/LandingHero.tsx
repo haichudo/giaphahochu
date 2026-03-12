@@ -57,8 +57,8 @@ export default function LandingHero({ siteName }: LandingHeroProps) {
           </motion.div>
 
           <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-[5rem] font-serif font-bold text-stone-900 tracking-tight leading-[1.1] max-w-4xl">
-            <span className="block">{siteName}</span>
-          </h1>
+  <span className="block whitespace-pre-line">{siteName}</span>
+</h1>
 
           <p className="text-lg sm:text-xl md:text-2xl text-stone-600 max-w-2xl mx-auto leading-relaxed font-light">
             Gìn giữ và lưu truyền những giá trị, cội nguồn và truyền thống tốt
