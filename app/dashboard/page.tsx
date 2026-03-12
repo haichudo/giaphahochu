@@ -305,6 +305,23 @@ export default async function DashboardLaunchpad() {
           </section>
         )}
       </div>
+            </div>
+
+      {/* Zalo Chat Button */}
+      <a
+        href="https://zalo.me/0908303639"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-6 right-6 z-50"
+      >
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg"
+          alt="Chat Zalo"
+          className="w-14 h-14 rounded-full shadow-lg hover:scale-110 transition"
+        />
+      </a>
+
+    
     </main>
   );
 }
