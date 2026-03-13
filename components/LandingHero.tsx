@@ -87,13 +87,13 @@ export default function LandingHero({ siteName }: LandingHeroProps) {
           </span>
 
           {/* địa danh */}
-          <span className="mt-4 text-lg sm:text-xl md:text-2xl text-stone-700 font-medium max-w-3xl">
-            Thôn Khúc Lộng – Xã Nghĩa Trụ – Tỉnh Hưng Yên
-          </span>
+          <span className="mt-4 text-lg sm:text-xl md:text-2xl text-stone-700 font-semibold max-w-3xl">
+  Thôn Khúc Lộng – Xã Nghĩa Trụ – Tỉnh Hưng Yên
+</span>
 
-          <span className="text-lg sm:text-xl md:text-2xl text-stone-400 font-medium max-w-3xl">
-            (Xưa là Xóm Đọ – Thôn Vĩnh Khúc – Mỹ Văn – Văn Giang – Hưng Yên)
-          </span>
+          <span className="text-base sm:text-lg md:text-xl text-amber-700 font-medium whitespace-nowrap">
+  (Xưa là Xóm Đọ – Thôn Vĩnh Khúc – Mỹ Văn – Văn Giang – Hưng Yên)
+</span>
         </h1>
 
         {/* mô tả */}
