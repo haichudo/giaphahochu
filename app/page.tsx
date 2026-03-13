@@ -20,6 +20,7 @@ export default function HomePage() {
       </main>
 
       <Footer className="bg-transparent relative z-10 border-none" />
+      <ZaloButton />
     </div>
   );
 }
