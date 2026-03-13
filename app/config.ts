@@ -2,7 +2,7 @@ const config = {
   siteName:
     process.env.SITE_NAME ||
     `Gia phả họ Chu
-- Thôn Khúc Lộng - Xã Nghĩa Trụ (Văn Giang) - Hưng Yên`,
+- Thôn Khúc Lộng - Xã Nghĩa Trụ - Tỉnh Hưng Yên (Xưa là Xóm Đọ-Thôn Vĩnh Khúc-Mỹ Văn-Văn Giang-Tỉnh Hưng Yên `,
   exampleEmail: process.env.EXAMPLE_EMAIL || "",
   examplePassword: process.env.EXAMPLE_PASSWORD || "",
   demoDomain:
